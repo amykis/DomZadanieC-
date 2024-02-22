@@ -34,11 +34,23 @@ int LengthNewArray(string[] array){
     return count;
 }
 
+// Создаем новый массив из элементов длинна которых меньше или равна 3
+string[] ReturnResultArray(int count, string[] arrayString){
+    string[] array = new string[count];
+    count = 0;
+    for (int i = 0; i < arrayString.Length; i++){
+        if (arrayString[i].Length <= 3 ){
+            array[count] = arrayString[i];
+            count++;
+        }
+    }
+    return array;
+}
+
 //  Создаем массив
-string[] arrayString = new string[] {"Hello", "2", "world", ":-)"};
+string[] arrayString = new string[] {"Russia", "Denmark", "Kazan"};
 PrintArray(arrayString);
-
 int count = LengthNewArray(arrayString);
+string[] arrayResultString = ReturnResultArray(count, arrayString);
 Console.WriteLine();
-Console.Write(count);
-
+PrintArray(arrayResultString);
