@@ -1,0 +1,15 @@
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\DomZadanieC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\DomZadanieC#.AssemblyInfoInputs.cache
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\DomZadanieC#.AssemblyInfo.cs
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\DomZadanieC#.csproj.CoreCompileInputs.cache
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\DomZadanieC#.sourcelink.json
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\bin\Debug\net8.0\DomZadanieC#.exe
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\bin\Debug\net8.0\DomZadanieC#.deps.json
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\bin\Debug\net8.0\DomZadanieC#.runtimeconfig.json
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\bin\Debug\net8.0\DomZadanieC#.dll
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\bin\Debug\net8.0\DomZadanieC#.pdb
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\DomZadanieC#.dll
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\refint\DomZadanieC#.dll
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\DomZadanieC#.pdb
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\DomZadanieC#.genruntimeconfig.cache
+D:\KursGeekBrains\Git_education_C#\DomZadanieC#\obj\Debug\net8.0\ref\DomZadanieC#.dll
