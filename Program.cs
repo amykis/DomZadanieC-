@@ -11,10 +11,7 @@
 // Очищаем консоль
 Console.Clear();
 
-//  Создаем массив
-string[] arrayString = new string[] {"Hello", "2", "world", ":-)"};
-
-// Вывод массива на печать
+// Вывод массива в консоль
 void PrintArray(string[] array){
     Console.Write("[ ");
     for (int i = 0; i < array.Length; i++){
@@ -26,4 +23,22 @@ void PrintArray(string[] array){
     Console.Write(" ]");
 }
 
+// Проверяем элементы массива длинна которых меньше или равна 3. Считаем количество элементов
+int LengthNewArray(string[] array){
+    int count = 0;
+    for (int i = 0; i < array.Length; i++){
+        if (array[i].Length <= 3 ){
+            count++;
+        }
+    }
+    return count;
+}
+
+//  Создаем массив
+string[] arrayString = new string[] {"Hello", "2", "world", ":-)"};
 PrintArray(arrayString);
+
+int count = LengthNewArray(arrayString);
+Console.WriteLine();
+Console.Write(count);
+
