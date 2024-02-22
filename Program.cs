@@ -51,6 +51,8 @@ string[] ReturnResultArray(int count, string[] arrayString){
 string[] arrayString = new string[] {"Russia", "Denmark", "Kazan"};
 PrintArray(arrayString);
 int count = LengthNewArray(arrayString);
+
+// Преобразуем массив
 string[] arrayResultString = ReturnResultArray(count, arrayString);
 Console.WriteLine();
 PrintArray(arrayResultString);
