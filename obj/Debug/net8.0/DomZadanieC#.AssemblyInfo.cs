@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DomZadanieC#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3b0856d4352e7d3f3f090e5bdac299a9be52833")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9130c9f2af5f01ac3c4617cb0dbb21e436c502f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DomZadanieC#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DomZadanieC#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Y900-17isk\\.nuget\\packages\\": {}
+    "C:\\Users\\Y910-17ISK\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\KursGeekBrains\\Git_education_C#\\DomZadanieC#\\DomZadanieC#.csproj",
+      "projectUniqueName": "E:\\KursGeekBrains\\Git_education_C#\\DomZadanieC#\\DomZadanieC#.csproj",
       "projectName": "DomZadanieC#",
-      "projectPath": "D:\\KursGeekBrains\\Git_education_C#\\DomZadanieC#\\DomZadanieC#.csproj",
-      "packagesPath": "C:\\Users\\Y900-17isk\\.nuget\\packages\\",
-      "outputPath": "D:\\KursGeekBrains\\Git_education_C#\\DomZadanieC#\\obj\\",
+      "projectPath": "E:\\KursGeekBrains\\Git_education_C#\\DomZadanieC#\\DomZadanieC#.csproj",
+      "packagesPath": "C:\\Users\\Y910-17ISK\\.nuget\\packages\\",
+      "outputPath": "E:\\KursGeekBrains\\Git_education_C#\\DomZadanieC#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Y900-17isk\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Y910-17ISK\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -38,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Y900-17isk\\AppData\\Roaming\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
